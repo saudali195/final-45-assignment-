@@ -6,4 +6,4 @@ let personName:string = "SaudAli"
 
 // Printing a message to a person
 
-console.log('Hello ${PersonName} Would you like to learn some Python today? ')
+console.log(`Hello ${PersonName} Would you like to learn some Python today? `)
